@@ -15,14 +15,6 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":3,"y":5,"w":54,"h":52},
 	"sourceSize": {"w":64,"h":64}
-},
-{
-	"filename": "tank3",
-	"frame": {"x":80,"y":54,"w":56,"h":54},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":2,"y":4,"w":56,"h":54},
-	"sourceSize": {"w":64,"h":64}
 }],
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
